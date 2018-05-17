@@ -1,0 +1,15 @@
+.idea/modules.xml
+*.iml
+.idea/vcs.xml
+.idea/workspace.xml
+local.properties
+.gradle/
+android/.idea/misc.xml
+android/.idea/modules.xml
+android/.idea/workspace.xml
+android/build/generated/source/buildConfig/debug/org/tensorflow/demo
+android/build/
+android/.idea
+gradlew
+gradlew.bat
+android/gradle
